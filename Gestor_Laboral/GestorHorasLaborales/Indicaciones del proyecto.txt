@@ -1,3 +1,5 @@
 versión 1.0.0.0 28/08/2026
 aun falta terminal la clase que se encarga de las horas, falta poco para terminal la lógica del tiempo con las horas y turnos
 ya está lista la clase que evalua al trabajor
+
+ahora restableci todo para iniciar desde cero con una base mas solida sin necesidad de cambiar codigo en el transcurso, la idea es implementar lo aprendido en las asignaturas de ingenieria de software y estructuras de datos, por esta ultima asignatura retome C++, con respecto a java este proyecto representa un reto constante, ya que no tengo muy buenas bases con enfasis en POO, el plan es reforzar todo java y avanzar a spring / spting boot
